@@ -6,6 +6,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+Welcome Nur Adriana
 
 Use the left arrow to go back!
